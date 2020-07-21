@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I’m currently studying on ...
-* 🌱 Daegu Software Meister High School
+#### 🏫  I’m currently studying on ...
+* Daegu Software Meister High School
 
-####  I’m currently working on ...
-* 🔭 B1nd (Front-End)
+#### 🔭  I’m currently working on ...
+* B1nd (Front-End)
 
-#### 🎖 I’m currently using lang ...
+#### 🎖  I’m currently using lang ...
 * JavaScript
 * TypeScript
 * React
@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 * TypeORM
 
 
-#### 🛫 I’m currently learning ...
+#### 🛫  I’m currently learning ...
 * Swift
 * V lang
 
-#### private Commit __
+#### 🔓  private Commit __
 * B1nd - TeamProject
 * My-Project
 * TeamProject
