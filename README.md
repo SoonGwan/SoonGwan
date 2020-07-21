@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ##### I’m currently studying on ...
-* - 🌱 Daegu Software Meister High School
+* 🌱 Daegu Software Meister High School
