@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonGwan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### 🏫  I’m currently studying on ...
 * Daegu Software Meister High School
@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 * B1nd - TeamProject
 * My-Project
 * TeamProject
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonGwan)](https://github.com/anuraghazra/github-readme-stats)
