@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonGwan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### 🏫  I’m currently studying on ...
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 * My-Project
 * TeamProject
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonGwan)](https://github.com/anuraghazra/github-readme-stats)
+
