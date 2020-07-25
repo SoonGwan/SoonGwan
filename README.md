@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![SoonGwan's github stats](https://github-readme-stats.vercel.app/api?username=SoonGwan&show_icons=true&hide_border=true)
 
 #### Almost using lang
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonGwan&hide=html)]https://github.com/SoonGwan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonGwan&hide=html)]https://github.com/SoonGwan)
 
 #### 🔭  I’m currently working on ...
 * B1nd (Front-End)
