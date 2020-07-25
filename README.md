@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### 🏫  I’m currently studying on ...
 * Daegu Software Meister High School
 -->
-![SoonGwan's github stats](https://github-readme-stats.vercel.app/api?username=SoonGwan&show_icons=true&hide_border=true)
+![SoonGwan's github stats](https://github-readme-stats.vercel.app/api?username=SoonGwan&show_icons=true&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonGwan&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔭  I’m currently working on ...
