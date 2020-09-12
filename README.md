@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 
 
 #### 🛫  I’m currently learning ...
-* Swift
-* V lang
+* Python
 
 #### 🔓  private Commit __
 * B1nd - TeamProject
