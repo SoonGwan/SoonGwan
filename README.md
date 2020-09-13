@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 * B1nd - TeamProject
 * My-Project
 * TeamProject
+* Solo
 
 
