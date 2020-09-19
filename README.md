@@ -21,7 +21,7 @@ M 0 305 Q 61 61 122 61 Q 183 61 244 305 Q 305 61 366 488 Q 427 61 488 305 Q 549 
 * Daegu Software Meister High School
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=나는%순관이야%20👋&fontSize=60&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=나는%20%20👋&fontSize=60&fontAlignY=35)
 ![SoonGwan's github stats](https://github-readme-stats.vercel.app/api?username=SoonGwan&show_icons=true&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonGwan&hide=html&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
