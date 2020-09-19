@@ -12,14 +12,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
 
+M 0 305 Q 61 61 122 61 Q 183 61 244 305 Q 305 61 366 488 Q 427 61 488 305 Q 549 61 610 61 Q 671 61 732 305 Q 793 61 854 488 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonGwan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### 🏫  I’m currently studying on ...
 * Daegu Software Meister High School
 -->
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
 ![SoonGwan's github stats](https://github-readme-stats.vercel.app/api?username=SoonGwan&show_icons=true&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonGwan&hide=html&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
