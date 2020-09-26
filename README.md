@@ -44,6 +44,5 @@ M 0 305 Q 61 61 122 61 Q 183 61 244 305 Q 305 61 366 488 Q 427 61 488 305 Q 549 
 * B1nd - TeamProject
 * My-Project
 * TeamProject
-* Solo
 
 
