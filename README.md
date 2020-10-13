@@ -24,25 +24,14 @@ M 0 305 Q 61 61 122 61 Q 183 61 244 305 Q 305 61 366 488 Q 427 61 488 305 Q 549 
 ![SoonGwan's github stats](https://github-readme-stats.vercel.app/api?username=SoonGwan&show_icons=true&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonGwan&hide=html&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 🔭  I’m currently working on ...
-* B1nd (Front-End)
-
-#### 🎖  I’m currently using ...
-* JavaScript
-* TypeScript
-* React
-* React Native
-* Express.js
-* MySQL
-* TypeORM
-
-
-#### 🛫  I’m currently learning ...
-* Python
-
-#### 🔓  private Commit __
-* B1nd - TeamProject
-* My-Project
-* TeamProject
+|                                                            | 이름             | 설명                                                                             | 진행                                |
+| ---------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------- | ----------------------------------- |
+| ![](https://img.icons8.com/plasticine/24/000000/react.png) | React & RN       | React를 사용하여 프로젝트에 능숙히 사용합니다.                                   | ![70%](https://progress-bar.dev/80) |
+| &nbsp; 💅                                                  | styled-component | Styled-component를 좋아하며 프로젝트에 적극 활용합니다.                          | ![70%](https://progress-bar.dev/70) |
+| &nbsp;                                                     | MobX             | Mobx 를 활용하여 상태관리를 적절히 사용합니다.                                   | ![70%](https://progress-bar.dev/70) |
+| ![](https://img.icons8.com/color/24/000000/javascript.png) | Javascript       | 자바스크립트를 좋아합니다.                                                       | ![70%](https://progress-bar.dev/80) |
+| ![](https://img.icons8.com/color/24/000000/typescript.png) | Typescript       | 기존 자바스크립트 프로젝트, 새로운 프로젝트를 타입스크립트로 변경, 사용중입니다. | ![60%](https://progress-bar.dev/70) |
+| ![](https://img.icons8.com/color/24/000000/api.png)        | API              | ExpressJS를 통해 간단한 서버 REST API를 제작합니다                               | ![45%](https://progress-bar.dev/85) |
+| ![](https://img.icons8.com/color/24/000000/git.png)        | Git&Github       | Git Branch를 이용하여 협업, 버전화를 을 진행하여 사용중입니다.                   | ![70%](https://progress-bar.dev/70) |
 
 
