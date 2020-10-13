@@ -31,7 +31,7 @@ M 0 305 Q 61 61 122 61 Q 183 61 244 305 Q 305 61 366 488 Q 427 61 488 305 Q 549 
 | &nbsp;                                                     | MobX             | Mobx 를 활용하여 상태관리를 적절히 사용합니다.                                   | ![70%](https://progress-bar.dev/70) |
 | ![](https://img.icons8.com/color/24/000000/javascript.png) | Javascript       | 자바스크립트를 좋아합니다.                                                       | ![70%](https://progress-bar.dev/80) |
 | ![](https://img.icons8.com/color/24/000000/typescript.png) | Typescript       | 기존 자바스크립트 프로젝트, 새로운 프로젝트를 타입스크립트로 변경, 사용중입니다. | ![60%](https://progress-bar.dev/70) |
-| ![](https://img.icons8.com/color/24/000000/api.png)        | API              | ExpressJS를 통해 간단한 서버 REST API를 제작합니다                               | ![45%](https://progress-bar.dev/85) |
+| ![](https://img.icons8.com/color/24/000000/api.png)        | API              | ExpressJS를 통해 간단한 서버 REST API를 제작합니다                               | ![35%](https://progress-bar.dev/85) |
 | ![](https://img.icons8.com/color/24/000000/git.png)        | Git&Github       | Git Branch를 이용하여 협업, 버전화를 을 진행하여 사용중입니다.                   | ![70%](https://progress-bar.dev/70) |
 
 
